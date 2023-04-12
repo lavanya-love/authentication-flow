@@ -17,6 +17,9 @@
       },
       "api": {
         "authflowdemo": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
