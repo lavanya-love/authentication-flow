@@ -11,7 +11,7 @@ import { AmplifyProvider } from '@aws-amplify/ui-react'
 
 Amplify.configure(config)
 
-const theme = {
+/*const theme = {
   name: 'pretty-princess',
   tokens: {
     colors: {
@@ -20,10 +20,11 @@ const theme = {
       }
     }
   }
-}
+}*/
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <AmplifyProvider theme={theme}>
+  //<AmplifyProvider theme={theme}>
+  <AmplifyProvider>
     <App />
   </AmplifyProvider>
 );
