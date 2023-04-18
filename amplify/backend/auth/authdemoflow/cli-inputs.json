@@ -3,8 +3,8 @@
   "cognitoConfig": {
     "identityPoolName": "testAuthIdentityPool",
     "allowUnauthenticatedIdentities": false,
-    "resourceNameTruncated": "authfl22313ff8",
-    "userPoolName": "authflowdemo",
+    "resourceNameTruncated": "authde9e6d4e65",
+    "userPoolName": "authdemoflow",
     "autoVerifiedAttributes": [
       "email"
     ],
@@ -30,10 +30,10 @@
     "userpoolClientRefreshTokenValidity": 30,
     "userpoolClientWriteAttributes": [],
     "userpoolClientReadAttributes": [],
-    "userpoolClientLambdaRole": "authfl22313ff8_userpoolclient_lambda_role",
+    "userpoolClientLambdaRole": "authde9e6d4e65_userpoolclient_lambda_role",
     "userpoolClientSetAttributes": false,
-    "sharedId": "22313ff8",
-    "resourceName": "authflowdemo",
+    "sharedId": "9e6d4e65",
+    "resourceName": "authdemoflow",
     "authSelections": "identityPoolAndUserPool",
     "serviceName": "Cognito",
     "usernameAttributes": [

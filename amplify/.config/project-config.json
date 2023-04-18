@@ -2,7 +2,7 @@
   "providers": [
     "awscloudformation"
   ],
-  "projectName": "authflowdemo",
+  "projectName": "authdemoflow",
   "version": "3.1",
   "frontend": "javascript",
   "javascript": {
